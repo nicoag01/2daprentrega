@@ -1,0 +1,30 @@
+*{
+    background-color: white;
+    
+}
+
+.logo{
+    font-size: 1.5rem;
+}
+
+.center{
+    text-align: center !important; 
+}
+
+.pt-2{
+    padding-top: 20px;
+}
+
+
+.md-2{
+    font-size: 1.5rem;
+}
+
+.flex{
+    display: inline-block;
+}
+
+
+.css-1a7q9t8 {
+    justify-content: center ;
+}
